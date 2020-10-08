@@ -17,7 +17,7 @@
  ## Status do projeto
  
  <h4 align="center">
-   🚧 Matador de Monstros 🚀 Em construção... 🚧
+   🚧 Matador de Monstros 🚀 Concluido!!! 🚧
  </h4>
 
 ## Author
